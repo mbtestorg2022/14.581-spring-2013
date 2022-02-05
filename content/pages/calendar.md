@@ -8,33 +8,345 @@ uid: 5ebd7936-e872-9e5e-d618-46815de46e6c
 
 \[DD\] = Dave Donaldson
 
-| SES # | TOPICS | TAUGHT BY |
-| --- | --- | --- |
-| {{< td-colspan 3 >}}**{{< anchor "S1" >}}{{< /anchor >}}Section I: Core Models of International Trade**{{< /td-colspan >}} |||
-| 1 | Gains From Trade and the Law of Comparative Advantage (Theory) | AC |
-| 2 | The Ricardian Model (Theory, Part I) | AC |
-| 3 | The Ricardian Model, (cont.) (Theory, Part II) | AC |
-| 4 | The Assignment Model Approach (Theory) | AC |
-| 5 | Gains From Trade and the Law of Comparative Advantage (Empirics) | DD |
-| 6 | The Ricardian Model (Empirics) | DD |
-| 7 | The Assignment Model Approach (Empirics) | DD |
-| 8 | The Heckscher-Ohlin Model (Theory, Part I) | AC |
-| 9 | The Heckscher-Ohlin Model, (cont.) (Theory, Part II) | AC |
-| 10 | The Heckscher-Ohlin Model (Empirics, Part I) | DD |
-| 11 | The Heckscher-Ohlin Model, (cont.) (Empirics, Part II) | DD |
-| 12 | Trade Theory with Firm-Level Heterogeneity (Empirics, Part I) | DD |
-| 13 | Trade Theory with Firm-Level Heterogeneity, (cont.) (Empirics, Part II) | DD |
-| 14 | Trade Theory with Firm-Level Heterogeneity (Theory, Part I) | AC |
-| 15 | Trade Theory with Firm-Level Heterogeneity, (cont.) (Theory, Part II) | AC |
-| 16 | Gravity Models (Theory) | AC |
-| 17 | Gravity Models (Empirics) | DD |
-| {{< td-colspan 3 >}}**{{< anchor "S2" >}}{{< /anchor >}}Section II: Miscellaneous Topics in Trade**{{< /td-colspan >}} |||
-| 18 | Trade Costs (Empirics) | DD |
-| 19 | Offshoring and Fragmentation of Production (Theory, Part I) | AC |
-| 20 | Offshoring and Fragmentation of Production, (cont.) (Theory, Part II) | AC |
-| 21 | Economic Geography (Empirics, Part I) | DD |
-| 22 | Economic Geography, (cont.) (Empirics, Part II) | DD |
-| 23 | Political Economy of Trade Policy and the WTO (Theory, Part I) | AC |
-| 24 | Political Economy of Trade Policy and the WTO, (cont.) (Theory, Part II) | AC |
-| 25 | Political Economy of Trade Policy and the WTO (Empirics, Part I) | DD |
-| 26 | Political Economy of Trade Policy and the WTO, (cont.) (Empirics, Part II) | DD
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+TAUGHT BY
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**{{< anchor "S1" >}}{{< /anchor >}}Section I: Core Models of International Trade**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Gains From Trade and the Law of Comparative Advantage (Theory)
+{{< tdclose >}}
+{{< tdopen >}}
+AC
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+The Ricardian Model (Theory, Part I)
+{{< tdclose >}}
+{{< tdopen >}}
+AC
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+The Ricardian Model, (cont.) (Theory, Part II)
+{{< tdclose >}}
+{{< tdopen >}}
+AC
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The Assignment Model Approach (Theory)
+{{< tdclose >}}
+{{< tdopen >}}
+AC
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Gains From Trade and the Law of Comparative Advantage (Empirics)
+{{< tdclose >}}
+{{< tdopen >}}
+DD
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+The Ricardian Model (Empirics)
+{{< tdclose >}}
+{{< tdopen >}}
+DD
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+The Assignment Model Approach (Empirics)
+{{< tdclose >}}
+{{< tdopen >}}
+DD
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+The Heckscher-Ohlin Model (Theory, Part I)
+{{< tdclose >}}
+{{< tdopen >}}
+AC
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+The Heckscher-Ohlin Model, (cont.) (Theory, Part II)
+{{< tdclose >}}
+{{< tdopen >}}
+AC
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+The Heckscher-Ohlin Model (Empirics, Part I)
+{{< tdclose >}}
+{{< tdopen >}}
+DD
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+The Heckscher-Ohlin Model, (cont.) (Empirics, Part II)
+{{< tdclose >}}
+{{< tdopen >}}
+DD
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Trade Theory with Firm-Level Heterogeneity (Empirics, Part I)
+{{< tdclose >}}
+{{< tdopen >}}
+DD
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Trade Theory with Firm-Level Heterogeneity, (cont.) (Empirics, Part II)
+{{< tdclose >}}
+{{< tdopen >}}
+DD
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Trade Theory with Firm-Level Heterogeneity (Theory, Part I)
+{{< tdclose >}}
+{{< tdopen >}}
+AC
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Trade Theory with Firm-Level Heterogeneity, (cont.) (Theory, Part II)
+{{< tdclose >}}
+{{< tdopen >}}
+AC
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Gravity Models (Theory)
+{{< tdclose >}}
+{{< tdopen >}}
+AC
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Gravity Models (Empirics)
+{{< tdclose >}}
+{{< tdopen >}}
+DD
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="3" >}}
+**{{< anchor "S2" >}}{{< /anchor >}}Section II: Miscellaneous Topics in Trade**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Trade Costs (Empirics)
+{{< tdclose >}}
+{{< tdopen >}}
+DD
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Offshoring and Fragmentation of Production (Theory, Part I)
+{{< tdclose >}}
+{{< tdopen >}}
+AC
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Offshoring and Fragmentation of Production, (cont.) (Theory, Part II)
+{{< tdclose >}}
+{{< tdopen >}}
+AC
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Economic Geography (Empirics, Part I)
+{{< tdclose >}}
+{{< tdopen >}}
+DD
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Economic Geography, (cont.) (Empirics, Part II)
+{{< tdclose >}}
+{{< tdopen >}}
+DD
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Political Economy of Trade Policy and the WTO (Theory, Part I)
+{{< tdclose >}}
+{{< tdopen >}}
+AC
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Political Economy of Trade Policy and the WTO, (cont.) (Theory, Part II)
+{{< tdclose >}}
+{{< tdopen >}}
+AC
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Political Economy of Trade Policy and the WTO (Empirics, Part I)
+{{< tdclose >}}
+{{< tdopen >}}
+DD
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Political Economy of Trade Policy and the WTO, (cont.) (Empirics, Part II)
+{{< tdclose >}}
+{{< tdopen >}}
+DD
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
