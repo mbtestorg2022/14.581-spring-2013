@@ -28,7 +28,7 @@ LECTURE SLIDES
 Gains From Trade and the Law of Comparative Advantage (Theory)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Session 1 lecture slides (PDF)]({{< baseurl >}}/resources/mit14_581s13_lecslides1)
+[Session 1 lecture slides (PDF)]({{< baseurl >}}/resources/mit14_581s13_lecslides1)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +52,7 @@ The Ricardian Model (Theory, Part I)
 The Ricardian Model, (cont.) (Theory, Part II)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Session 3 lecture slides (PDF)]({{< baseurl >}}/resources/mit14_581s13_lecslides3)
+[Session 3 lecture slides (PDF)]({{< baseurl >}}/resources/mit14_581s13_lecslides3)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +64,7 @@ The Ricardian Model, (cont.) (Theory, Part II)
 The Assignment Model Approach (Theory)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Session 4 lecture slides (PDF)]({{< baseurl >}}/resources/mit14_581s13_lecslides4)
+[Session 4 lecture slides (PDF)]({{< baseurl >}}/resources/mit14_581s13_lecslides4)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +112,7 @@ The Assignment Model Approach (Empirics)
 The Heckscher-Ohlin Model (Theory, Part I)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Session 8 lecture slides (PDF)]({{< baseurl >}}/resources/mit14_581s13_lecslides8)
+[Session 8 lecture slides (PDF)]({{< baseurl >}}/resources/mit14_581s13_lecslides8)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +124,7 @@ The Heckscher-Ohlin Model (Theory, Part I)
 The Heckscher-Ohlin Model, (cont.) (Theory, Part II)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Session 9 lecture slides (PDF)]({{< baseurl >}}/resources/mit14_581s13_lecslides9)
+[Session 9 lecture slides (PDF)]({{< baseurl >}}/resources/mit14_581s13_lecslides9)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -184,7 +184,7 @@ Trade Theory with Firm-Level Heterogeneity, (cont.) (Empirics, Part II)
 Trade Theory with Firm-Level Heterogeneity (Theory, Part I)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Session 14 lecture slides (PDF)]({{< baseurl >}}/resources/mit14_581s13_lecslides14)
+[Session 14 lecture slides (PDF)]({{< baseurl >}}/resources/mit14_581s13_lecslides14)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -196,7 +196,7 @@ Trade Theory with Firm-Level Heterogeneity (Theory, Part I)
 Trade Theory with Firm-Level Heterogeneity, (cont.) (Theory, Part II)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Session 15 lecture slides (PDF)]({{< baseurl >}}/resources/mit14_581s13_lecslides15)
+[Session 15 lecture slides (PDF)]({{< baseurl >}}/resources/mit14_581s13_lecslides15)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -292,7 +292,7 @@ Economic Geography, (cont.) (Empirics, Part II)
 Political Economy of Trade Policy and the WTO (Theory, Part I)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Session 23 lecture slides (PDF)]({{< baseurl >}}/resources/mit14_581s13_lecslides23)
+[Session 23 lecture slides (PDF)]({{< baseurl >}}/resources/mit14_581s13_lecslides23)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -304,7 +304,7 @@ Political Economy of Trade Policy and the WTO (Theory, Part I)
 Political Economy of Trade Policy and the WTO, (cont.) (Theory, Part II)
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Session 24 lecture slides (PDF)]({{< baseurl >}}/resources/mit14_581s13_lecslides24)
+[Session 24 lecture slides (PDF)]({{< baseurl >}}/resources/mit14_581s13_lecslides24)
 {{< tdclose >}}
 
 {{< trclose >}}

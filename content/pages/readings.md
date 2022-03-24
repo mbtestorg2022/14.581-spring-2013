@@ -105,7 +105,7 @@ Jones, R. "[Comparative Advantage and the Theory of Tariffs: A Multi-Country, Mu
 
 \[K\] Chapter 10.
 
-Matsuyama, K. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Ricardian Model with a Continuum of Goods under Nonhomothetic Preferences: Demand Complementarities, Income Distribution, and North-South Trade." (PDF - 2.1MB)](http://pages.uoregon.edu/bruceb/Peter%20W.pdf) _The Journal of Political Economy_ 108, no. 6 (2000): 1093–120.
+Matsuyama, K. ["A Ricardian Model with a Continuum of Goods under Nonhomothetic Preferences: Demand Complementarities, Income Distribution, and North-South Trade." (PDF - 2.1MB)](http://pages.uoregon.edu/bruceb/Peter%20W.pdf) _The Journal of Political Economy_ 108, no. 6 (2000): 1093–120.
 
 Wilson, Charles A. "[On the General Structure of Ricardian Models with a Continuum of Goods: Applications to Growth, Tariff Theory, and Technical Change](http://ideas.repec.org/a/ecm/emetrp/v48y1980i7p1675-1702.html)." _Econometrica_ 48, no. 7 (1980): 1675–702.
 
@@ -177,7 +177,7 @@ Bernhofen, and Brown. "[A Direct Test of the Theory of Comparative Advantage: Th
 
 Frankel, J., and D. Romer. "[Does Trade Cause Growth?](http://dx.doi.org/10.1257/aer.89.3.379)" _American Economic Review_ 89, no. 3 (1999): 379–99.
 
-Feyrer, J. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Trade and Income Exploiting Time Series in Geography." (PDF)](http://www.nber.org/papers/w14910.pdf) NBER Working Paper no. 14910, 2009.
+Feyrer, J. "[Trade and Income Exploiting Time Series in Geography." (PDF)](http://www.nber.org/papers/w14910.pdf) NBER Working Paper no. 14910, 2009.
 
 ### Recommended
 
@@ -235,7 +235,7 @@ Lecture 7: Assignment Models (Empirics)
 
 ### Essential
 
-Costinot, A., and D. Donaldson. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[How Large Are the Gains from Economic Integration? Theory and Evidence from US Agriculture, 1880-2002." (PDF)](https://pdfs.semanticscholar.org/25f7/6eaf121b65a2ed3443f9da5bba88de05944d.pdf) Working Paper, 2011.
+Costinot, A., and D. Donaldson. "[How Large Are the Gains from Economic Integration? Theory and Evidence from US Agriculture, 1880-2002." (PDF)](https://pdfs.semanticscholar.org/25f7/6eaf121b65a2ed3443f9da5bba88de05944d.pdf) Working Paper, 2011.
 
 Costinot, A., D. Donaldson, et al. "[Evolving Comparative Advantage and the Impact of Climate Change in Agricultural Markets: Evidence from a 9 Million-Field Partition of the Earth (PDF - 2.2MB)](http://www.hans-moeller-seminar.vwl.uni-muenchen.de/download/costinot-paper.pdf)." 2012.
 
@@ -352,13 +352,13 @@ Davis, and Weinstein. "The Factor Content of Trade." _The Handbook of Internatio
 
 Antweiler, Werner and David Trefler. "[Increasing Returns and All That: A View from Trade](http://dx.doi.org/10.1257/000282802760015621)." _American Economic Review_ 92 no. 1 (2002): 93–119.
 
-Bernhofen, Daniel M, and Brown. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Testing the General Validity Of the Heckscher-Ohlin Theorem: The Natural Experiment of Japan." (PDF)](https://editorialexpress.com/cgi-bin/conference/download.cgi?db_name=MWITSpring2010&paper_id=73) University of Nottingham Working Paper, 2009.
+Bernhofen, Daniel M, and Brown. "[Testing the General Validity Of the Heckscher-Ohlin Theorem: The Natural Experiment of Japan." (PDF)](https://editorialexpress.com/cgi-bin/conference/download.cgi?db_name=MWITSpring2010&paper_id=73) University of Nottingham Working Paper, 2009.
 
-Bowen, Harry P, Leamer, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Multicountry, Multifactor Tests of the Factor Abundance Theory." (PDF - 2.43MB)](https://www.nber.org/papers/w1918) _American Economic Review_ 77, no. 5 (1987): 791–809.
+Bowen, Harry P, Leamer, et al. ["Multicountry, Multifactor Tests of the Factor Abundance Theory." (PDF - 2.43MB)](https://www.nber.org/papers/w1918) _American Economic Review_ 77, no. 5 (1987): 791–809.
 
 Choi, and Krishna. "[The Factor Content of Bilateral Trade: An Empirical Test](http://dx.doi.org/10.1086/421168)." _Journal of Political Economy_ 112, no. 4 (2004): 887–914.
 
-Davis, and Weinstein, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Using International and Japanese Regional Data to Determine When the Factor Abundance Theory of Trade Works." (PDF - 3.1MB)](https://www.jstor.org/stable/2951353?seq=1#metadata_info_tab_contents) _American Economic Review_ 87, no. 3 (1997): 421–46.
+Davis, and Weinstein, et al. ["Using International and Japanese Regional Data to Determine When the Factor Abundance Theory of Trade Works." (PDF - 3.1MB)](https://www.jstor.org/stable/2951353?seq=1#metadata_info_tab_contents) _American Economic Review_ 87, no. 3 (1997): 421–46.
 
 Davis, and Weinstein. "[An Account of Global Factor Trade](http://dx.doi.org/10.1257/aer.91.5.1423)." _American Economic Review_ 91, no. 5 (2001): 1423–53.
 
@@ -381,7 +381,7 @@ Heckscher-Ohlin: FPE tests
 
 ### Recommended
 
-Bernard, Redding, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Testing for Factor Price Equality with Unobserved Differences in Factor Quality or Productivity." (PDF)](http://mba.tuck.dartmouth.edu/pages/faculty/andrew.bernard/usfpe.pdf) Working Paper.
+Bernard, Redding, et al. ["Testing for Factor Price Equality with Unobserved Differences in Factor Quality or Productivity." (PDF)](http://mba.tuck.dartmouth.edu/pages/faculty/andrew.bernard/usfpe.pdf) Working Paper.
 
 Slaughter, Mathew. "[Does Trade Liberalization Converge Factor Prices? Evidence From the Antebellum Transportation Revolution](http://dx.doi.org\10.1080/09638190110061348)." _Journal of International Trade and Economic Development_ 10, no. 3 (2001): 339–62.
 
@@ -452,19 +452,19 @@ Arkolakis, Costas. "[Market Penetration Costs and the New Consumers Margin in In
 
 Arkolakis, C., and M. Muendler. "[The Extensive Margin of Exporting Products: A Firm-Level Analysis](http://www.nber.org/papers/w16641)." Mimeo, 2010.
 
-Bernard, S. Redding, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Comparative Advantage and Heterogeneous Firms." (PDF)](http://www.princeton.edu/~reddings/pubpapers/HOHETRestud2007.pdf) _Review of Economic Studies_ 74, no. 1 (2007): 31–66.
+Bernard, S. Redding, et al. ["Comparative Advantage and Heterogeneous Firms." (PDF)](http://www.princeton.edu/~reddings/pubpapers/HOHETRestud2007.pdf) _Review of Economic Studies_ 74, no. 1 (2007): 31–66.
 
 ———. "[Multi-product Firms and Trade Liberalization](http://dx.doi.org/10.1093/qje/qjr021)." _The Quarterly Journal of Economics_ 126, no. 3 (2011): 1271–318.
 
-Chaney, T. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Distorted Gravity: Heterogeneous Firms, Market Structure and the Geography of International Trade." (PDF)](http://www.econ.umn.edu/~tkehoe/classes/ChaneyJan06.pdf) _American Economic Review_ (2006).
+Chaney, T. ["Distorted Gravity: Heterogeneous Firms, Market Structure and the Geography of International Trade." (PDF)](http://www.econ.umn.edu/~tkehoe/classes/ChaneyJan06.pdf) _American Economic Review_ (2006).
 
 Helpman, E., O. Itskhoki, et al. "[Inequality and Unemployment in a Global Economy](http://dx.doi.org/10.3982/ECTA8640)." _Econometrica_ 78, no. 4 (2010): 1239–83.
 
-Mayer, T., M. Melitz, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[Market size, Competition, and the Product Mix of Exporters." (PDF)](https://scholar.harvard.edu/files/melitz/files/mmo_aer_final.pdf) Mimeo, 2009.
+Mayer, T., M. Melitz, et al. "[Market size, Competition, and the Product Mix of Exporters." (PDF)](https://scholar.harvard.edu/files/melitz/files/mmo_aer_final.pdf) Mimeo, 2009.
 
 Melitz, Marc, and Gianmarco Ottaviano. "[Market Size, Trade and Productivity](http://dx.doi.org/10.1111/j.1467-937X.2007.00463.x)." _Review of Economic Studies_ 75, no. 1 (2008): 295–316.
 
-Sampson, T. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Selection into Trade and Wage Inequality." (PDF)](http://personal.lse.ac.uk/sampsont/Selection.pdf) Mimeo, 2012.
+Sampson, T. ["Selection into Trade and Wage Inequality." (PDF)](http://personal.lse.ac.uk/sampsont/Selection.pdf) Mimeo, 2012.
 
 Monopolistic Competition without Firm-Level Heterogeneity (Not Covered in Class)
 --------------------------------------------------------------------------------
@@ -475,7 +475,7 @@ Monopolistic Competition without Firm-Level Heterogeneity (Not Covered in Class)
 
 \[K\] Chapters 1, and 3.
 
-Fajgelbaum, P., G. Grossman, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Income Distribution, Product Quality, and International Trade." (PDF)](http://www.econ.ucla.edu/pfajgelbaum/idpqit_jpe.pdf) _Journal of Political Economy_ 119, no. 4 (2011): 721–65.
+Fajgelbaum, P., G. Grossman, et al. ["Income Distribution, Product Quality, and International Trade." (PDF)](http://www.econ.ucla.edu/pfajgelbaum/idpqit_jpe.pdf) _Journal of Political Economy_ 119, no. 4 (2011): 721–65.
 
 Other Oligopolistic Settings (Not Covered in Class)
 ---------------------------------------------------
@@ -486,7 +486,7 @@ Other Oligopolistic Settings (Not Covered in Class)
 
 \[K\] Chapter 4.
 
-Neary, P. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"[International Trade in General Oligopolistic Equilibrium." (PDF)](http://users.ox.ac.uk/~econ0211/papers/pdf/gole.pdf) Mimeo.
+Neary, P. "[International Trade in General Oligopolistic Equilibrium." (PDF)](http://users.ox.ac.uk/~econ0211/papers/pdf/gole.pdf) Mimeo.
 
 
 {{< tdclose >}}
@@ -510,11 +510,11 @@ Costinot A., and A. Rodriguez-Clare. "[Trade Theory with Numbers: Quantifying th
 
 ### Recommended
 
-Arkolakis, C., A. Costinot, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Elusive Pro-Competitive Effects of Trade." (PDF)](https://academic.oup.com/restud/article/86/1/46/4797189) Mimeo, 2012.
+Arkolakis, C., A. Costinot, et al. ["The Elusive Pro-Competitive Effects of Trade." (PDF)](https://academic.oup.com/restud/article/86/1/46/4797189) Mimeo, 2012.
 
 Atkeson, A., and A. Burstein "[Innovation, Firm Dynamics, and International Trade](http://www.journals.uchicago.edu/doi/pdf/10.1086/653690)." _Journal of Political Economy_ 118, no. 3 (2010): 433–84.
 
-Burstein, A., and J. Vogel. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Globalization, Technology, and the Skill Premium: A Quantitative Analysis." (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.188.9357&rep=rep1&type=pdf) Mimeo, 2008.
+Burstein, A., and J. Vogel. ["Globalization, Technology, and the Skill Premium: A Quantitative Analysis." (PDF)](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.188.9357&rep=rep1&type=pdf) Mimeo, 2008.
 
 Ramondo, N., and A. Rodriguez-Clare. "[Trade, Multinational Production, and the Gains from Openness](http://www.nber.org/papers/w15604)." _Journal of Political Economy_ 121, no. 2 (2013): 273–322. (NBER Working Paper no. 15604)
 
@@ -614,7 +614,7 @@ Grossman, Gene M, and E. Rossi-Hansberg. "[Trading Tasks: A Simple Theory of Off
 
 ———. "[Task Trade between Similar Countries](http://dx.doi.org/10.3982/ECTA8700)." Econometrica 80, no. 2 (2012): 593-629. 
 
-Kremer, M., and E. Maskin. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Globalization and Inequality." (PDF - 1.34MB)](http://www.imf.org/external/pubs/ft/weo/2007/02/pdf/c4.pdf) Mimeo, Harvard University, 2006.
+Kremer, M., and E. Maskin. ["Globalization and Inequality." (PDF - 1.34MB)](http://www.imf.org/external/pubs/ft/weo/2007/02/pdf/c4.pdf) Mimeo, Harvard University, 2006.
 
 Nocke, V., and S. Yeaple. "[An Assignment Theory of Foreign Direct Investment](http://ideas.repec.org/a/oup/restud/v75y2008i2p529-557.html)." _Review of Economic Studies_ 75, no. 2 (2008): 529–57.
 
@@ -626,11 +626,11 @@ Yi, K. "[Can Vertical Specialization Explain the Growth of World Trade?](http://
 
 ### Recommended (Empirics)
 
-Hummels, Jorgensen, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Wage and Employment Effects of Outsourcing: Evidence from Danish Matched Worker Firm Data." (PDF)](http://www.krannert.purdue.edu/faculty/hummelsd/research/HJMX%20Danish%20outsourcing%20version%209.pdf) Working Paper, 2010.
+Hummels, Jorgensen, et al. ["The Wage and Employment Effects of Outsourcing: Evidence from Danish Matched Worker Firm Data." (PDF)](http://www.krannert.purdue.edu/faculty/hummelsd/research/HJMX%20Danish%20outsourcing%20version%209.pdf) Working Paper, 2010.
 
-Amiti, Mary, and Wei. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Service Offshoring and Productivity: Evidence from the US." (PDF)](https://www.nber.org/papers/w11926.pdf) CEPR Working Paper, 2006.
+Amiti, Mary, and Wei. ["Service Offshoring and Productivity: Evidence from the US." (PDF)](https://www.nber.org/papers/w11926.pdf) CEPR Working Paper, 2006.
 
-Jensen, and Kletzer. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Measuring Tradable Services and the Task Content of Offshorable Services Jobs." (PDF)](http://people.ucsc.edu/~lkletzer/Kletzer_Task_content_051107.pdf) UCSC Working Paper, 2007.
+Jensen, and Kletzer. ["Measuring Tradable Services and the Task Content of Offshorable Services Jobs." (PDF)](http://people.ucsc.edu/~lkletzer/Kletzer_Task_content_051107.pdf) UCSC Working Paper, 2007.
 
 Liu, and Trefler. " [Much Ado About Nothing: American Jobs and the Rise of Service Outsourcing to China and India](http://www.nber.org/papers/w14061)." NBER Working Paper No. 14061, 2008.
 
@@ -642,7 +642,7 @@ Ebeinstein, Harrison, et al. "[Estimating the Impact of Trade and Offshoring on 
 
 Autor, and Handel. "[Putting Tasks to the Test: Human Capital, Job Tasks and Wages](http://www.nber.org/papers/w15116)." NBER Working Paper no. 15116, 2009.
 
-Hummels, Jorgensen, et al. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The Wage and Employment Effects of Outsourcing: Evidence from Danish Matched Worker Firm Data." (PDF)](http://www.krannert.purdue.edu/faculty/hummelsd/research/HJMX%20Danish%20outsourcing%20version%209.pdf) Working Paper, 2010.
+Hummels, Jorgensen, et al. ["The Wage and Employment Effects of Outsourcing: Evidence from Danish Matched Worker Firm Data." (PDF)](http://www.krannert.purdue.edu/faculty/hummelsd/research/HJMX%20Danish%20outsourcing%20version%209.pdf) Working Paper, 2010.
 
 Blinder, Alan, and Alan Krueger. "[Alternative Measures of Offshorability: A Survey Approach](http://www.nber.org/papers/w15287)." NBER Working Paper No. 15287, 2009.
 
@@ -650,7 +650,7 @@ Blinder, Alan. "[How Many U.S. Jobs Might Be Offshorable?](http://www.econbiz.de
 
 Jensen, and Kletzer. "[Measuring Tradable Services and the Task Content of Offshorable Services Jobs](http://www.nber.org/chapters/c10826)." UCSC Working Paper, 2007.
 
-Amiti, and Wei. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Service Offshoring, Productivity and Employment: Evidence from the US." (PDF)](https://www.imf.org/en/Publications/WP/Issues/2016/12/31/Service-Offshoring-Productivity-and-Employment-Evidence-from-the-United-States-18567) CEPR Working Paper, 2006.
+Amiti, and Wei. ["Service Offshoring, Productivity and Employment: Evidence from the US." (PDF)](https://www.imf.org/en/Publications/WP/Issues/2016/12/31/Service-Offshoring-Productivity-and-Employment-Evidence-from-the-United-States-18567) CEPR Working Paper, 2006.
 
 Becker, Sascha, Karolina Elkholm, and Marc-Andreas Muendler. "[Offshoring and The Onshore Composition of Tasks and Skills](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=1469870)." UCSD Working Paper, 2009.
 
@@ -727,7 +727,7 @@ Strategic Trade Policy (Not Covered in Class)
 
 \[GR\] Brander, J. "Strategic trade policy."
 
-Brander, J., and B. Spencer. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Export Subsidies and International Market Share Rivalry." (PDF)](https://www.nber.org/papers/w1464.pdf) _Journal of International Economics_ 18 (1985): 83–100.
+Brander, J., and B. Spencer. ["Export Subsidies and International Market Share Rivalry." (PDF)](https://www.nber.org/papers/w1464.pdf) _Journal of International Economics_ 18 (1985): 83–100.
 
 Eaton, J., and G. Grossman. "[Optimal Trade Policy and Industrial Policy Under Oligopoly](http://dx.doi.org/10.2307/1891121)." _The Quarterly Journal of Economics_ 101, no. 2 (1986): 383–406.
 
